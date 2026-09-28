@@ -1,0 +1,9 @@
+[project]
+name = "inizoi-google-scrape"
+version = "0.1.0"
+requires-python = ">=3.14"
+dependencies = [
+    "ddgs>=9.16.0",
+    "fastapi[standard]>=0.141.1",
+    "requests>=2.34.2",
+]
